@@ -1,0 +1,24 @@
+{
+  "name": "@danielchan/git-graph",
+  "version": "1.0.0",
+  "privite": false,
+  "description": "a simple command line tool for opening a git graph separately",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielChan27/git-graph.git"
+  },
+  "keywords": [
+    "git",
+    "git-graph"
+  ],
+  "author": "daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielChan27/git-graph/issues"
+  },
+  "homepage": "https://github.com/DanielChan27/git-graph#readme"
+}
